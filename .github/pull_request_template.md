@@ -12,6 +12,7 @@
 - [ ] Documentation
 - [ ] i18n/l10n
 - [ ] Tests
+- [ ] Eslint
 
 # Screenshots
 
