@@ -9,9 +9,9 @@
 - any additional information or context
 
 # Checklist
-- [] Documentation
-- [] i18n/l10n
-- [] Tests
+- [ ] Documentation
+- [ ] i18n/l10n
+- [ ] Tests
 
 # Screenshots
 
